@@ -71,6 +71,7 @@ if (address) {  return (
     <div className="whitelist-div">
       <h1>Please connect wallet to whitelist</h1>
     </div>
+    <p>hello</p>
     </Layout>
   )}
 
