@@ -67,7 +67,7 @@ if (address) {  return (
     </Layout>
   )} else
 {  return (
-    <Layout title="ArchiDAO">
+    <Layout title="ioToad">
     <div className="whitelist-div">
       <h1>Please connect wallet to whitelist</h1>
     </div>
