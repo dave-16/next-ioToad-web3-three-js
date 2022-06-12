@@ -57,7 +57,7 @@ const IndexPage: NextPage = () => {
   // Send the form data to our forms API on Vercel and get a response.
 }
 if (address) {  return (
-    <Layout title="ArchiDAO">
+    <Layout title="ioToad">
     <div className="whitelist-div">
     <form className="whitelist-form" onSubmit={handleSubmit}>
       <input type="text" className="whitelist-input" id="email" placeholder="email" name="email" value={values.email} onChange={handleEmailInputChange} required />
